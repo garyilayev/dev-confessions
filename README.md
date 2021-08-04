@@ -6,7 +6,7 @@ Or alternatively you can go to https://dev-confessions.netlify.app/.
 Deployed with [Heroku](https://www.heroku.com) & [Netlify](https://www.netlify.com/).
 
 This project was created for educational purposes,
-List of applied tools in this project :
+List of applied tools and concepts in this project :
 ```
 MVC Architecture
 Redux
