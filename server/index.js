@@ -1,7 +1,6 @@
 import express from 'express';
 import mongoose from 'mongoose';
 import cors from 'cors';
-import { expressCspHeader, SELF } from 'express-csp-header';
 import dotenv from 'dotenv' ;
 
 import confessionRoutes from './routes/confessions.js';
